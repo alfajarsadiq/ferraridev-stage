@@ -4,10 +4,10 @@ import { motion, AnimatePresence, Variants, useInView } from 'framer-motion';
 
 // --- PLACEHOLDER ASSETS ---
 import heroVideo from "../assets/partner.webm";
-const qualityImage = '../assets/productq.webp';
-const reliabilityImage = '../assets/partnerh.webp';
-const growthImage = '../assets/partnerf.webp';
-const reachImage = '../assets/productw.webp';
+import qualityImage from '../assets/productq.webp';
+import reliabilityImage from '../assets/partnerh.webp';
+import growthImage from '../assets/partnerf.webp';
+import reachImage from '../assets/productw.webp';
 
 
 const partnerTestimonials = [
