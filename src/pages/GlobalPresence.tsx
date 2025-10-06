@@ -9,9 +9,9 @@ import SuccessStoriesSection from '../components/SuccessStoriesSection'; // IMPO
 
 // --- PLACEHOLDER ASSETS ---
 const heroSlides = [
-  { image: "src/assets/cargoo.webp", title: "Our Global Presence", subtitle: "With partnerships across 7+ countries, Ferrari Foods LLC strengthens food security worldwide through the reliable delivery of premium staples." },
-  { image: "src/assets/warehousee.webp", title: "Commitment to Quality", subtitle: "Upholding the highest standards in every grain, from sourcing to delivery, across all our international markets." },
-  { image: "src/assets/in.webp", title: "Building Strong Partnerships", subtitle: "We collaborate with over 500 partners globally to ensure a seamless and efficient supply chain." }
+  { image: "https://github.com/alfajarsadiq/ferraridev-stage/blob/main/src/assets/cargoo.webp?raw=true", title: "Our Global Presence", subtitle: "With partnerships across 7+ countries, Ferrari Foods LLC strengthens food security worldwide through the reliable delivery of premium staples." },
+  { image: "https://github.com/alfajarsadiq/ferraridev-stage/blob/main/src/assets/warehousee.webp?raw=true", title: "Commitment to Quality", subtitle: "Upholding the highest standards in every grain, from sourcing to delivery, across all our international markets." },
+  { image: "https://github.com/alfajarsadiq/ferraridev-stage/blob/main/src/assets/in.webp?raw=true", title: "Building Strong Partnerships", subtitle: "We collaborate with over 500 partners globally to ensure a seamless and efficient supply chain." }
 ];
 
 const worldMapSvg = 'https://raw.githubusercontent.com/alfajarsadiq/ferraridev-stage/fbe8f510dd3ffc0b1d905538bda404d34a8882d8/src/assets/worldmapp.svg';
