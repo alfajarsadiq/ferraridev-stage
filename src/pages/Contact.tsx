@@ -10,7 +10,7 @@ import omanImage from '../assets/oman.webp';
 
 
 // --- Placeholder for a background image to mimic the video effect ---
-const heroBackgroundImage = 'src/assets/contact.webp';
+const heroBackgroundImage = 'https://github.com/alfajarsadiq/ferraridev-stage/blob/main/src/assets/contact.webp?raw=true';
 
 // --- Updated Data for the Branches section with more details ---
 const branchData = [
