@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- ADD THIS NEW FONT DEFINITION --- */
+@font-face {
+  font-family: 'Trusted';
+  src: url('./fonts/Trusted.woff2') format('woff2'),
+       url('./fonts/Trusted.woff') format('woff');
+  font-weight: normal; /* Or bold, depending on the font weight */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sunday';
+  src: url('./fonts/Sunday - Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noken';
+  src: url('./fonts/NokenBold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rokhald';
+  src: url('./fonts/Rokhald.ttf') format('truetype'),
+       url('./fonts/Rokhald.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mourich';
+  src: url('./fonts/Mourich Bold.ttf') format('truetype'),
+       url('./fonts/Mourich Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+.hero-container {
+    clip-path: ellipse(120% 100% at 50% 0%);
+}
