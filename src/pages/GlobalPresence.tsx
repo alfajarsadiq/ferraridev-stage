@@ -14,7 +14,7 @@ const heroSlides = [
   { image: "src/assets/in.webp", title: "Building Strong Partnerships", subtitle: "We collaborate with over 500 partners globally to ensure a seamless and efficient supply chain." }
 ];
 
-const worldMapSvg = 'src/assets/worldmapp.svg';
+const worldMapSvg = 'https://raw.githubusercontent.com/alfajarsadiq/ferraridev-stage/fbe8f510dd3ffc0b1d905538bda404d34a8882d8/src/assets/worldmapp.svg';
 
 const locations = [
     { name: 'UAE', top: '48%', left: '58%', year: 2010, products: 'Basmati, Matta', distributor: 'HQ Office' },
