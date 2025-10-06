@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="module">
+import RefreshRuntime from "/@react-refresh"
+RefreshRuntime.injectIntoGlobalHook(window)
+window.$RefreshReg$ = () => {}
+window.$RefreshSig$ = () => (type) => type
+window.__vite_plugin_react_preamble_installed__ = true
+</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCnjKsVB4G8HNo2CbJW-ZLEwSWGyi7NrE" async defer></script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/src/assets/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ferrari Foods LLC - Premium Rice & Wheat Enterprise</title>
+    <meta name="description" content="Ferrari Foods LLC is a globally recognized UAE-based food enterprise specializing in premium rice and wheat, serving 7+ countries with quality and sustainability." />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
