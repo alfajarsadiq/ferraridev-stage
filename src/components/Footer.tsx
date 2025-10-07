@@ -39,7 +39,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-10 pb-12 border-b" style={{ borderColor: brandColors.secondary }}>
           <div className="flex items-center space-x-4">
             {/* --- CORRECTED LOGO PATH --- */}
-            <img src="src/assets/logo.png" alt="Ferrari Foods LLC Logo" className="h-12 w-12" />
+            <img src="https://github.com/alfajarsadiq/ferraridev-stage/blob/main/src/assets/logo.png?raw=true" alt="Ferrari Foods LLC Logo" className="h-12 w-12" />
             {/* --- UPDATED NAME & ADDED ARABIC SUBHEADING --- */}
             <div>
               <h2 className="text-3xl font-bold font-trusted tracking-tight">Ferrari Foods LLC</h2>
